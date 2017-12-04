@@ -1,0 +1,10 @@
+{
+  "name": "4.3Konfiguracja_webpack",
+  "version": "0.0.1",
+  "dependencies": {
+    
+  },
+  "scripts": {
+    "start": "webpack"
+  }
+}
